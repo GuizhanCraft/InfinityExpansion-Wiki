@@ -14,4 +14,4 @@
 - [基础自动植树机](/Tree-Grower)
 - [滤网底座](/Strainer)
 - [水力发电机](/Hydro-Generator)
-- 基础太阳能发电机
+- [基础太阳能发电机](/Solar-Generator)
