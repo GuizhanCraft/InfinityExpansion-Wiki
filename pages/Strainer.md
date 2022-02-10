@@ -43,4 +43,5 @@
 | [金粉](https://slimefun.guizhanss.wiki/#/Gold-Dust) | 1/15 |
 | [锡粉](https://slimefun.guizhanss.wiki/#/Tin-Dust) | 1/15 |
 | [锌粉](https://slimefun.guizhanss.wiki/#/Zinc-Dust) | 1/15 |
-| 土豆 (隐藏物品) | 1/10000 |
+
+此外，每次打捞均有0.01%(1/10000)的几率获得一个土豆。

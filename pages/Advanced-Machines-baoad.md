@@ -2,7 +2,7 @@
 
 该分类包含合成配方较为复杂的机器。部分机器为 Slimefun [电力机器](https://slimefun.guizhanss.wiki/#/Electric-Machines)的升级版本。
 
-[点击此处查看baoad版本的物品名称](/Advanced-Machines-baoad)
+[点击此处查看ybw0014版本的物品名称](/Advanced-Machines)
 
 ## 目录 :id=table-of-contents
 

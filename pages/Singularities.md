@@ -4,6 +4,8 @@
 
 要制作一个结构，你需要使用[结构转换器](/)。
 
+[点击此处查看baoad版本的物品名称](/Singularities-baoad)
+
 ## 目录 :id=table-of-contents
 
 - 铜结构
