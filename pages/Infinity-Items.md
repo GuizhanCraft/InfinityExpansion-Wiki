@@ -14,9 +14,9 @@
 - [无尽圆石生成器](/Cobblestone-Generator)
 - [无尽自动农场](/Virtual-Farm)
 - [无尽自动植树机](/Tree-Grower)
-- 无尽磨粉机
-- 无尽铸锭机
-- 无尽矿机
+- [无尽磨粉机](/Dust-Extractor)
+- [无尽铸锭机](/Ingot-Former)
+- [无尽矿机](/Quarries)
 - 无尽头盔
 - 无尽胸甲
 - 无尽护腿

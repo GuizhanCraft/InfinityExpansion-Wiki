@@ -7,24 +7,24 @@
 ## 目录 :id=table-of-contents
 
 - [虚空收集者](/Void-Harvester)
-- [石材厂](/Stondworks-Factory)
+- [石材厂](/Stoneworks-Factory)
 - [结构转换器](/Singularity-Constructor)
 - [资源合成器](/Resource-Synthesizer)
 - [高级圆石生成器](/Cobblestone-Generator)
 - [黑曜石生成器](/Obsidian-Generator)
 - [高级自动农场](Virtual-Farm)
 - [高级自动植树机](/Tree-Grower)
-- 极寒冰柜
-- 磨粉机
-- 圆石压缩机
-- 铸锭机
-- 铀提取器
-- 分解机
+- [极寒冰柜](/Extreme-Freezer)
+- [磨粉机](/Dust-Extractor)
+- [圆石压缩机](/Cobble-Press)
+- [铸锭机](/Ingot-Former)
+- [铀提取器](/Uranium-Extractor)
+- [分解机](/Decompressor)
 - 装备材质转换器
 - [地理资源矿机](/Geo-Quarry)
-- 基础矿机
-- 高级矿机
-- 虚空矿机
+- [基础矿机](/Quarries)
+- [高级矿机](/Quarries)
+- [虚空矿机](/Quarries)
 - [高级水力发电机](/Hydro-Generator)
 - [地热发电机](/Geothermal-Generator)
 - [高级地热发电机](/Geothermal-Generator)
