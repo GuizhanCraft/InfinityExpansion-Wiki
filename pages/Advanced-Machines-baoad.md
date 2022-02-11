@@ -20,7 +20,7 @@
 - [成锭机](/Ingot-Former)
 - [铀提取器](/Uranium-Extractor)
 - [分解器](/Decompressor)
-- 物品转级器
+- [物品转级器](/Gear-Transformer)
 - [特级GEO矿机](/Geo-Quarry)
 - [基础矿机](/Quarries)
 - [高级矿机](/Quarries)
