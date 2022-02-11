@@ -9,9 +9,9 @@
 - [虚空微粒发生器](/Void-Harvester)
 - [石制品制作机](/Stondworks-Factory)
 - [奇点构造机](/Singularity-Constructor)
-- 物品转换器(粘液)
+- [物品转换器(粘液)](/Resource-Synthesizer)
 - [高级圆石发生器](/Cobblestone-Generator)
-- 黑曜石发生器
+- [黑曜石发生器](/Obsidian-Generator)
 - [高级微型农场](Virtual-Farm)
 - [高级植树机](/Tree-Grower)
 - 高级冷却机

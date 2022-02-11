@@ -9,9 +9,9 @@
 - [虚空收集者](/Void-Harvester)
 - [石材厂](/Stondworks-Factory)
 - [结构转换器](/Singularity-Constructor)
-- 资源合成器
+- [资源合成器](/Resource-Synthesizer)
 - [高级圆石生成器](/Cobblestone-Generator)
-- 黑曜石生成器
+- [黑曜石生成器](/Obsidian-Generator)
 - [高级自动农场](Virtual-Farm)
 - [高级自动植树机](/Tree-Grower)
 - 极寒冰柜
