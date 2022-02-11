@@ -6,9 +6,9 @@
 
 ## 目录 :id=table-of-contents
 
-- 虚空微粒发生器
-- 石制品制作机
-- 奇点构造机
+- [虚空微粒发生器](/Void-Harvester)
+- [石制品制作机](/Stondworks-Factory)
+- [奇点构造机](/Singularity-Constructor)
 - 物品转换器(粘液)
 - [高级圆石发生器](/Cobblestone-Generator)
 - 黑曜石发生器

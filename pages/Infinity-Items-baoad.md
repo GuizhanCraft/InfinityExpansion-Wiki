@@ -8,8 +8,8 @@
 
 - 无尽机械电路板
 - 无尽机器核心
-- 无尽虚空微粒发生器
-- 无尽奇点构造机
+- [无尽虚空微粒发生器](/Void-Harvester)
+- [无尽奇点构造机](/Singularity-Constructor)
 - 动力基岩
 - [无尽圆石发生器](/Cobblestone-Generator)
 - [无尽微型农场](/Virtual-Farm)

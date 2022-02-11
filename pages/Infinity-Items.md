@@ -8,8 +8,8 @@
 
 - 无尽机械电路
 - 无尽机器核心
-- 无尽虚空收集者
-- 无尽结构转换器
+- [无尽虚空收集者](/Void-Harvester)
+- [无尽结构转换器](/Singularity-Constructor)
 - 充能基岩
 - [无尽圆石生成器](/Cobblestone-Generator)
 - [无尽自动农场](/Virtual-Farm)

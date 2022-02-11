@@ -6,9 +6,9 @@
 
 ## 目录 :id=table-of-contents
 
-- 虚空收集者
-- 石材厂
-- 结构转换器
+- [虚空收集者](/Void-Harvester)
+- [石材厂](/Stondworks-Factory)
+- [结构转换器](/Singularity-Constructor)
 - 资源合成器
 - [高级圆石生成器](/Cobblestone-Generator)
 - 黑曜石生成器
