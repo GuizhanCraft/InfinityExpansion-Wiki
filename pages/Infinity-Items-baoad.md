@@ -10,7 +10,7 @@
 - 无尽机器核心
 - [无尽虚空微粒发生器](/Void-Harvester)
 - [无尽奇点构造机](/Singularity-Constructor)
-- 动力基岩
+- [动力基岩](/Powered-Bedrock)
 - [无尽圆石发生器](/Cobblestone-Generator)
 - [无尽微型农场](/Virtual-Farm)
 - [无尽植树机](/Tree-Grower)
@@ -28,8 +28,8 @@
 - 星球吞噬之铲
 - 世界崩解之镐
 - 无尽鞘翅核心
-- 无尽反应堆
-- 无尽太阳能板
+- [无尽反应堆](/Infinity-Reactor)
+- [无尽太阳能板](/Infinite-Panel)
 - [无尽电容器](/Slimefun-Extension#infinity-capacitor)
 - [无尽附魔机](/Slimefun-Extension#infinity-enchanter)
 - [无尽驱魔机](/Slimefun-Extension#infinity-disenchanter)
