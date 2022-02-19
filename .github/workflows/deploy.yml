@@ -21,5 +21,5 @@ jobs:
           personal_token: ${{ secrets.BOT_TOKEN }}
           publish_dir: ./
           publish_branch: deploy
-          user_name: 'GuizhanBot'
+          user_name: ${{ secrets.BOT_USERNAME }}
           user_email: ${{ secrets.BOT_EMAIL }}
