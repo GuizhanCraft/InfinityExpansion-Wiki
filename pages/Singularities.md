@@ -2,9 +2,9 @@
 
 该分类中的物品都是消耗大量资源合成而来的，用于其他配方。
 
-要制作一个奇点，你需要使用[奇点构造机](/Singularity-Constructor)。
+要制作一个奇点，你需要使用[奇点构造机](./Singularity-Constructor)。
 
-[点击此处查看ybw0014版本的物品名称](/Singularities-ybw0014)
+[点击此处查看ybw0014版本的物品名称](./Singularities-ybw0014)
 
 ## 目录 :id=table-of-contents
 

@@ -1,10 +1,10 @@
-- [首页](/Home)
+- [首页](./Home)
 - 教程
 - 分类
-    - [基础材料](/Materials)
-    - [基础机器](/Basic-Machines)
-    - [高级机器](/Advanced-Machines)
-    - [存储](/Barrels)
-    - [生物模拟](/Mob-Simulation)
-    - [材料](/Singularities)
-    - [无尽物品](/Infinity-Items)
+    - [基础材料](./Materials)
+    - [基础机器](./Basic-Machines)
+    - [高级机器](./Advanced-Machines)
+    - [存储](./Barrels)
+    - [生物模拟](./Mob-Simulation)
+    - [材料](./Singularities)
+    - [无尽物品](./Infinity-Items)

@@ -2,7 +2,7 @@
 
 该分类包含用于制作机器的材料以及可用于部分机器的物品。
 
-[点击此处查看ybw0014版本的物品名称](/Materials-ybw0014)
+[点击此处查看ybw0014版本的物品名称](./Materials-ybw0014)
 
 ## 目录 :id=table-of-contents
 
@@ -37,4 +37,4 @@
 - 末影火焰之书
 - 矿脉矿工符文
 - 高级铁砧
-- [无尽工作台](/Infinity-Forge)
+- [无尽工作台](./Infinity-Forge)
